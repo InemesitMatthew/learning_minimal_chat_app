@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695130933272",
+    "project_id": "learning-minimal-chat-app",
+    "storage_bucket": "learning-minimal-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695130933272:android:ebb777f4f31616772a9b6d",
+        "android_client_info": {
+          "package_name": "com.example.learning_minimal_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs2GZiUTZb8xbmKBrJ_ZOVzEhh1ss7uxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
