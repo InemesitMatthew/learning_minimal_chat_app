@@ -28,3 +28,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+// MAKE SURE YOU TEST THE APP WHEN IMPROVING IT
+// ITS HIGH KEY BUGGING OUT
